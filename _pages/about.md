@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: "Greetings! "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
+I'm Sepehr Bakhshi and currently a graduate student at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), working with the Information Retrieval Group under the guidance of Professor [Fazli Can](https://www.cs.bilkent.edu.tr/~canf/).
+During my time at Bilkent, I've been working on data stream classification and information retrieval. These areas have fueled my interest in Natural Language Processing, Information Retrieval, and Data Mining.
+In the academic journey so far, I've had the pleasure of working on various research projects exploring these fascinating topics. The experience has been both challenging and rewarding, and I look forward to continuing my exploration in these areas in the future.
 
 
 How to edit your site's GitHub repository
